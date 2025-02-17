@@ -3,7 +3,7 @@ Rock Paper Scissors, but with 15 options, rock, fire, scissors, snake, human, tr
 `"possib": ["rock", "fire", "scissors", "snake", "human",
         "tree", "wolf", "sponge", "paper", "air", "water", "dragon",
         "devil", "lightning", "gun"],`
-to 
+to
 `"possib": ["rock", "fire", "scissors", "snake", "human",
         "tree", "wolf", "sponge", "paper", "air", "water", "dragon",
         "devil", "lightning", "gun", "nuke"],`
