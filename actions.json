@@ -1,0 +1,35 @@
+{
+    "possib": ["rock", "fire", "scissors", "snake", "human",
+        "tree", "wolf", "sponge", "paper", "air", "water", "dragon",
+        "devil", "lightning", "gun"],
+
+    "rock": ["fire", "scissors", "snake", "human", "wolf", "sponge", "tree"],
+
+    "fire": ["scissors", "paper", "snake", "human", "tree", "wolf", "sponge"],
+
+    "scissors": ["air", "tree", "paper", "snake", "human", "wolf", "sponge"],
+
+    "snake": ["human", "wolf", "sponge", "tree", "paper", "air", "water"],
+
+    "human": ["tree", "wolf", "sponge", "paper", "air", "water", "dragon"],
+
+    "tree": ["wolf", "dragon", "sponge", "paper", "air", "water", "devil"],
+
+    "wolf": ["sponge", "paper", "air", "water", "dragon", "lightning", "devil"],
+
+    "sponge": ["paper", "air", "water", "devil", "dragon", "gun", "lightning"],
+
+    "paper": ["air", "rock", "water", "devil", "dragon", "gun", "lightning"],
+
+    "air": ["fire", "rock", "water", "devil", "gun", "dragon", "lightning"],
+
+    "water": ["devil", "dragon", "rock", "fire", "scissors", "gun", "lightning"],
+
+    "dragon": ["devil", "lightning", "fire", "rock", "scissors", "gun", "snake"],
+
+    "devil": ["rock", "fire", "scissors", "gun", "lightning", "snake", "human"],
+
+    "lightning": ["gun", "scissors", "rock", "tree", "fire", "snake", "human"],
+
+    "gun": ["rock", "tree", "scissors", "snake", "human", "wolf"]
+}
